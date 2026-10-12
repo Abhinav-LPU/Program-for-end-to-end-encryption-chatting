@@ -1,4 +1,4 @@
-#User 1 can send message to chat.txt file and read messages from chat.txt file which was sent by User 2. 
+#User 1 can send message to chat.txt file and read messages from it which was sent by User 2. Just run the code to read and write anything. 
 import os
 import random
 import string
